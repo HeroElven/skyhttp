@@ -1,0 +1,4 @@
+1.封装RequestBase
+2.封装Base Request类
+3.设置参数等条件
+4.设置请求头方法
